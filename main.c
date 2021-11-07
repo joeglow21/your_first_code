@@ -1,9 +1,13 @@
 int main()
 {
   int i;
-  for (i = 0; i < 10; i++)
+  for (i = 0; i < 32 l
+       ; i++)
   {
-    printf("School\n");
+    printf("Hello School -l
+           \n");
   }
   return 0;
-}
+}save in my repository -l
+           save in master -l
+           
